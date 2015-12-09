@@ -1,0 +1,10 @@
+;Put a semicolon in front of any comments
+0(Inner Quiet)
+Q
+3(Steady Hand II)
+5(Advanced Touch)
+Q(Great Strides)
+5(Advanced Touch)
+Q(Great Strides)
+4(Byregot's Blessing)
+2(Careful Synthesis II)

@@ -1,0 +1,10 @@
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\bin\Debug\LongMacro.exe
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\bin\Debug\LongMacro.pdb
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\bin\Debug\GreyMagic.dll
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\bin\Debug\fasmdll_managed.dll
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Debug\LongMacro.csprojResolveAssemblyReference.cache
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Debug\LongMacro.Form1.resources
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Debug\LongMacro.Properties.Resources.resources
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Debug\LongMacro.csproj.GenerateResource.Cache
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Debug\LongMacro.exe
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Debug\LongMacro.pdb

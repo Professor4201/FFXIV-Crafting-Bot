@@ -1,0 +1,19 @@
+;Put a semicolon in front of any comments
+8(Comfort 
+0
+3
+5
+5
+5
+5
+5
+E
+Q
+3
+5
+1(innovation)
+9
+Q(Great Strides)
+4
+2
+2

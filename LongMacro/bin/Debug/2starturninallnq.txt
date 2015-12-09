@@ -1,0 +1,17 @@
+;Put a semicolon in front of any comments
+4(Comfort 
+0(IQ)
+1
+3(SH2)
+F(BT)
+F
+F
+F
+F
+3
+F
+F
+Q(GS)
+R(BB)
+2(CS2)
+2

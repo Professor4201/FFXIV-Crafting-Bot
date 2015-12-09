@@ -1,0 +1,19 @@
+;Put a semicolon in front of any comments
+4(Comfort Zone)
+0(Inner Quiet)
+3(Steady Hands II)
+1(Waste Not)
+F(Basic Touch)
+F(Basic Touch)
+F(Basic Touch)
+F(Basic Touch)
+E(Manipulation)
+3(Steady Hands II)
+F
+6
+5(Ingenuity)
+Q(Great Strides)
+R(Byregot's Blessing)
+2(Careful Synthesis II)
+2
+2

@@ -1,0 +1,9 @@
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\bin\Release\LongMacro.exe
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\bin\Release\LongMacro.pdb
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\bin\Release\GreyMagic.dll
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\bin\Release\fasmdll_managed.dll
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Release\LongMacro.Form1.resources
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Release\LongMacro.Properties.Resources.resources
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Release\LongMacro.csproj.GenerateResource.Cache
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Release\LongMacro.exe
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\LongMacro\LongMacro\obj\x86\Release\LongMacro.pdb

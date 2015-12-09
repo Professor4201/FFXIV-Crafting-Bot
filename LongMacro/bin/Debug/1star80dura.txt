@@ -1,0 +1,20 @@
+;Put a semicolon in front of any comments
+4
+0(Inner Quiet)
+3(Steady Hand II)
+F(Hasty Touch)
+F(Hasty Touch)
+F(Hasty Touch)
+F(Hasty Touch)
+F(Hasty Touch)
+E(Manipulation)
+3(Steady Hand II)
+F(Hasty Touch)
+6(Innovation)
+5(Ingenuity)
+Q(Great Strides)
+R(Byregot's Blessing)
+2(Careful Synthesis II)
+2(Careful Synthesis II)
+2
+2
